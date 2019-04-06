@@ -1,6 +1,10 @@
-N = S F
-Sigma = ( a )
+N = E S T R 
+Sigma = $ + * l ( ) n
 S = S
-S -> F 
-S -> ( S + F )
-F -> a
+S -> E$
+E -> TR
+R -> +TR
+R -> *TR
+R -> $
+T -> (E)
+T -> n

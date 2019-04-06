@@ -1,0 +1,6 @@
+N = S F
+Sigma = ( a )
+S = S
+S -> F 
+S -> ( S + F )
+F -> a

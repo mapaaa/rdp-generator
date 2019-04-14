@@ -1,10 +1,10 @@
-N = E S T R 
+N = E T R S
 Sigma = $ + * l ( ) n
 S = S
 S -> E$
 E -> TR
 R -> +TR
 R -> *TR
-R -> $
+R -> l
 T -> (E)
 T -> n
